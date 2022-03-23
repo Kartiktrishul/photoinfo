@@ -9,7 +9,7 @@ from os import listdir
 from os.path import isfile, join
 
 
-def selectFolder(   ``):
+def selectFolder():
     #select folder path
     root = Tk()
     root.withdraw()
